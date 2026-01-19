@@ -3,3 +3,4 @@
 
 echo "Hello World"
 echo "Hi World"
+echo "Hi"
