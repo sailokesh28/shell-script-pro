@@ -6,3 +6,5 @@ USERID=$(id -u)
         echo "You must run this script as root user"
         fi
         dnf install mysql -y
+        dnf install git -y
+        
